@@ -1,3 +1,6 @@
 [submodule "fa20-lab-starter"]
 	path = fa20-lab-starter
 	url = git@github.com:ZadenYip/fa20-lab-starter.git
+[submodule "fa20-proj1-starter"]
+	path = fa20-proj1-starter
+	url = git@github.com:ZadenYip/fa20-proj1-starter.git
